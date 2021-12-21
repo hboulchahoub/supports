@@ -5,6 +5,7 @@ Basic Java
 		Objectif 2.3 : Différencier entre la classe Class et la classe Object du java.
 		Objectif 2.4 : Utiliser le mot réservé “static”
 		Objectif 2.5 : Créer des classes selon le patron de conception : Singleton.
+	
 	TP3.pdf
 		Objectif 2.4 : Utiliser le mot réservé “static” (obj de la séance 2)
 		Objectif 2.5 : Comprendre le patron de conception : Singleton. (obj de la séance 2)
