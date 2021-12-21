@@ -1,10 +1,13 @@
+
 Basic Java
+
 	TP2.pdf
 		Objectif 2.1 : Comprendre l'héritage, le cast explicite et implicite, super et super()
 		Objectif 2.2 : Utiliser les modificateur d'accès: private, public, protected et par défaut.
 		Objectif 2.3 : Différencier entre la classe Class et la classe Object du java.
 		Objectif 2.4 : Utiliser le mot réservé “static”
 		Objectif 2.5 : Créer des classes selon le patron de conception : Singleton.
+	
 	TP3.pdf
 		Objectif 2.4 : Utiliser le mot réservé “static” (obj de la séance 2)
 		Objectif 2.5 : Comprendre le patron de conception : Singleton. (obj de la séance 2)
